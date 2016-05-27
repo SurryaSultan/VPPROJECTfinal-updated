@@ -1,0 +1,20 @@
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.csprojResolveAssemblyReference.cache
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.Form1.resources
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.Properties.Resources.resources
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.csproj.GenerateResource.Cache
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\bin\Debug\CVREADER.exe.config
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\bin\Debug\CVREADER.exe
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\bin\Debug\CVREADER.pdb
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\bin\Debug\itextsharp.xml
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.exe
+c:\users\muhammad hannan\documents\visual studio 2015\Projects\CVREADER\CVREADER\obj\Debug\CVREADER.pdb
+D:\CVREADER\CVREADER\bin\Debug\CVREADER.exe.config
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.exe
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.pdb
+D:\CVREADER\CVREADER\bin\Debug\CVREADER.exe
+D:\CVREADER\CVREADER\bin\Debug\CVREADER.pdb
+D:\CVREADER\CVREADER\bin\Debug\itextsharp.xml
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.csprojResolveAssemblyReference.cache
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.Form1.resources
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.Properties.Resources.resources
+D:\CVREADER\CVREADER\obj\Debug\CVREADER.csproj.GenerateResource.Cache
